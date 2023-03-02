@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My New Website",
+      "body": "A few things sbout  my new webpage \n which I will tell e you get amazed I have something terrific to disu all  you get amazed I have something terrific to disu all  you get amazed I have something terrific to disu all  you get amazed I have something terrific to disu all  you get amazed I have something terrific to disu all about in a bit",
+      "author": "Vikas",
+      "id": 1
+    },
+    {
+      "title": "Welcome Party!",
+      "body": "A few things sbout  my new webpage,\n while you get amazed I have something terrific to disucss with you  you get amazed I have something terrific to disu all  you get amazed I have something terrific to disu all  you get amazed I have something terrific to disu all  you get amazed I have something terrific to disu all  you get amazed I have something terrific to disu all",
+      "author": "Kavis",
+      "id": 2
+    },
+    {
+      "title": "Web Dev Tips",
+      "body": "A few things sbout  my new webpage \n thus you are enlightened",
+      "author": "Vikas",
+      "id": 3
+    },
+    {
+      "title": "Kuch tazaa ho jaaye",
+      "body": "kya hi karnaa tazaa karke",
+      "author": "Saavika",
+      "id": 5
+    },
+    {
+      "title": "kya hua tera vada",
+      "body": "wahi hua jo hona tha",
+      "author": "Vikas",
+      "id": 8
+    }
+  ]
+}
